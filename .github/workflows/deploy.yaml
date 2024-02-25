@@ -28,7 +28,7 @@ jobs:
       
       - name: Build
         run: ls -al
-        run: ${RUNNER_TEMP}/hugo
+        # run: ${RUNNER_TEMP}/hugo
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'

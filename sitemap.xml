@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.flundberg.com/personal/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
     <loc>https://blog.flundberg.com/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/food/</loc>
     <lastmod>2024-02-25T19:48:51+01:00</lastmod>
   </url><url>
     <loc>https://blog.flundberg.com/posts/</loc>
-    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tech/</loc>
   </url><url>
     <loc>https://blog.flundberg.com/categories/</loc>
   </url><url>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on Frederiks Blog</title>
-    <link>https://blog.flundberg.com/docs/</link>
+    <link>http://localhost:1313/docs/</link>
     <description>Recent content in Docs on Frederiks Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 14:59:59 +0100</lastBuildDate>
-    <atom:link href="https://blog.flundberg.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://blog.flundberg.com/docs/test/</link>
+      <link>http://localhost:1313/docs/test/</link>
       <pubDate>Sun, 25 Feb 2024 14:59:59 +0100</pubDate>
-      <guid>https://blog.flundberg.com/docs/test/</guid>
+      <guid>http://localhost:1313/docs/test/</guid>
       <description>This is a test page This is a test page</description>
     </item>
   </channel>

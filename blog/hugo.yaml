@@ -11,11 +11,26 @@ params:
     Title: "Frederiks Blog"
     Content: Welcome to my blog
     
-    SocialIcons: 
-      - name: Github
-        url: "https://github.com/fiblund"
-      - name: LinkedIn
-        url: "https://www.linkedin.com/in/frederik-fibiger-lundberg-57742813b/"
+  SocialIcons: 
+    - name: Github
+      url: "https://github.com/fiblund"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/frederik-fibiger-lundberg-57742813b/"
 
-    ShowReadingTime: true
-    ShowShareButtons: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30

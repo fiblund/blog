@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/tech/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/personal/about-me/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/about-me/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
@@ -61,8 +64,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/vegetarian/</loc>
     <lastmod>2024-02-25T19:48:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url>

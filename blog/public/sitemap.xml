@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/tech/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/about-me/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
@@ -26,6 +29,9 @@
     <loc>http://localhost:1313/tags/network/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
@@ -33,6 +39,9 @@
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tech/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/food/</loc>

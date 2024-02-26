@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal on Frederiks Blog</title>
+    <link>http://localhost:1313/categories/personal/</link>
+    <description>Recent content in Personal on Frederiks Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 20:07:35 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_world</title>
+      <link>http://localhost:1313/personal/hello-world/</link>
+      <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
+      <guid>http://localhost:1313/personal/hello-world/</guid>
+      <description>New Horizon Hello world! My name is Frederik Fibiger-Lundberg</description>
+    </item>
+  </channel>
+</rss>

@@ -1,8 +1,13 @@
-+++
-title = 'Håndtere Sorg Og Tab'
-date = 2024-02-25T20:14:40+01:00
-draft = true
-+++
+---
+title: 'Håndtere Sorg Og Tab'
+date: 2024-02-25T20:14:40+01:00
+draft: true
+
+categories:
+- personal
+tags:
+- loss
+---
 
 ## Håndtere sorg og tab - Vores elskede Pippi
 

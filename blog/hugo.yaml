@@ -2,4 +2,20 @@ baseURL: https://blog.flundberg.com/
 languageCode: en-us
 title: Frederiks Blog
 theme: PaperMod
-sectionPagesMenu: main
+
+enableEmoji: true
+
+params:
+  author: Frederik Fibiger-Lundberg
+  HomeInfoParams: 
+    Title: "Frederiks Blog"
+    Content: Welcome to my blog
+    
+    SocialIcons: 
+      - name: Github
+        url: "https://github.com/fiblund"
+      - name: LinkedIn
+        url: "https://www.linkedin.com/in/frederik-fibiger-lundberg-57742813b/"
+
+    ShowReadingTime: true
+    ShowShareButtons: true

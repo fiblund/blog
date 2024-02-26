@@ -1,8 +1,15 @@
-+++
-title = 'Humus'
-date = 2024-02-25T19:48:51+01:00
-draft = false
-+++
+---
+title: 'Humus'
+date: 2024-02-25T19:48:51+01:00
+draft: false
+
+categories:
+- food
+tags:
+- food
+- vegan
+- vegetarian
+---
 
 ## Humus opskrift
 

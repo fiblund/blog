@@ -2,17 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2024-02-25T14:59:59+01:00</lastmod>
+    <loc>http://localhost:1313/personal/</loc>
+    <lastmod>2024-02-25T20:14:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-25T14:59:59+01:00</lastmod>
+    <lastmod>2024-02-25T20:14:40+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/test/</loc>
-    <lastmod>2024-02-25T14:59:59+01:00</lastmod>
+    <loc>http://localhost:1313/tech/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cisco/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal/hello-world/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech/cisco-certs/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/network/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tech/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/food/</loc>
+    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/food/humus/</loc>
+    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>

@@ -2,27 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frederiks Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/food/</link>
     <description>Recent content on Frederiks Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 20:07:35 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello_world</title>
-      <link>http://localhost:1313/personal/hello-world/</link>
-      <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
-      <guid>http://localhost:1313/personal/hello-world/</guid>
-      <description>New Horizon Hello world! My name is Frederik Fibiger-Lundberg</description>
-    </item>
-    <item>
-      <title>My Cisco Certifications</title>
-      <link>http://localhost:1313/tech/cisco-certs/</link>
-      <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
-      <guid>http://localhost:1313/tech/cisco-certs/</guid>
-      <description>My current Cisco certifications CCNA - Previously CCNA R&amp;amp;S CCNA Security - Retired CCDA - Retired DevNet Associate CCNP Enterprise Core &amp;amp; ENARSI specialization - Previously CCNP R&amp;amp;S CCNP Datacenter Core &amp;amp; DCACI specialization
-Certifications I am actively working on CCNP Enterprise ENSDWI specialization</description>
-    </item>
+    <lastBuildDate>Sun, 25 Feb 2024 19:48:51 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Humus</title>
       <link>http://localhost:1313/food/humus/</link>

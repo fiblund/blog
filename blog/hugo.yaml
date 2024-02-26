@@ -16,6 +16,8 @@ params:
       url: "https://github.com/fiblund"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/frederik-fibiger-lundberg-57742813b/"
+    - name: YouTube
+      url: "https://www.youtube.com/@frederikfibiger-lundberg6751/featured"
 
   ShowReadingTime: true
   ShowShareButtons: true

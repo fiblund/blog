@@ -10,9 +10,9 @@
     <atom:link href="https://blog.flundberg.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://blog.flundberg.com/personal/about-me/</link>
+      <link>https://blog.flundberg.com/tech/about-me/</link>
       <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
-      <guid>https://blog.flundberg.com/personal/about-me/</guid>
+      <guid>https://blog.flundberg.com/tech/about-me/</guid>
       <description>About me Hello!
 My name is Frederik Fibiger-Lundberg, I was born in Denmark back in October 1996, and I work with IT Networking for a living!
 I started my IT journey in the Danish Broadcasting Cooperation (DR) as a data technician apprentice back in March 2015, where I started out working in helpdesk and phone support for internal users. Back then I imagined no better work, than supporting users with various issues, in a company such as DR with so many interesting and creative people and projects - Actually been then I used to dispise networking!</description>

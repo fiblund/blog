@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cisco on Frederiks Blog</title>
+    <link>https://blog.flundberg.com/tags/cisco/</link>
+    <description>Recent content in Cisco on Frederiks Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 20:07:35 +0100</lastBuildDate>
+    <atom:link href="https://blog.flundberg.com/tags/cisco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Cisco Certifications</title>
+      <link>https://blog.flundberg.com/tech/cisco-certs/</link>
+      <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
+      <guid>https://blog.flundberg.com/tech/cisco-certs/</guid>
+      <description>My current Cisco certifications CCNA - Previously CCNA R&amp;amp;S CCNA Security - Retired CCDA - Retired DevNet Associate CCNP Enterprise Core &amp;amp; ENARSI specialization - Previously CCNP R&amp;amp;S CCNP Datacenter Core &amp;amp; DCACI specialization
+Certifications I am actively working on CCNP Enterprise ENSDWI specialization</description>
+    </item>
+  </channel>
+</rss>

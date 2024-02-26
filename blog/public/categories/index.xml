@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/categories/food/</link>
+      <pubDate>Sun, 25 Feb 2024 19:48:51 +0100</pubDate>
+      <guid>http://localhost:1313/categories/food/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

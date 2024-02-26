@@ -20,7 +20,6 @@ params:
       url: "https://www.youtube.com/@frederikfibiger-lundberg6751/featured"
 
   ShowReadingTime: true
-  ShowShareButtons: true
 
 menu:
   main:

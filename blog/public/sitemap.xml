@@ -38,7 +38,19 @@
     <loc>http://localhost:1313/food/</loc>
     <lastmod>2024-02-25T19:48:51+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/food/</loc>
+    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/food/</loc>
+    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/food/humus/</loc>
+    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegan/</loc>
+    <lastmod>2024-02-25T19:48:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
     <lastmod>2024-02-25T19:48:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>

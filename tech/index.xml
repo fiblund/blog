@@ -6,6 +6,15 @@
     <description>Recent content on Frederiks Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 20:07:35 +0100</lastBuildDate>
     <atom:link href="https://blog.flundberg.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Cisco Certifications</title>
+      <link>https://blog.flundberg.com/tech/cisco-certs/</link>
+      <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
+      <guid>https://blog.flundberg.com/tech/cisco-certs/</guid>
+      <description>My current Cisco certifications CCNA - Previously CCNA R&amp;amp;S CCNA Security - Retired CCDA - Retired DevNet Associate CCNP Enterprise Core &amp;amp; ENARSI specialization - Previously CCNP R&amp;amp;S CCNP Datacenter Core &amp;amp; DCACI specialization
+Certifications I am actively working on CCNP Enterprise ENSDWI specialization</description>
+    </item>
   </channel>
 </rss>

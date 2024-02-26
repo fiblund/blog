@@ -2,3 +2,4 @@ baseURL: https://blog.flundberg.com/
 languageCode: en-us
 title: Frederiks Blog
 theme: PaperMod
+sectionPagesMenu: main

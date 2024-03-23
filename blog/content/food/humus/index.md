@@ -34,9 +34,9 @@ Jeg bruger selv en starvblender, men en food processor eller lign. kan også bru
 1. Tilsæt de skyllede kikærter, hvidløg, tahin, citron sagt & skal olie, samt oliven olie til en skål
 2. Blend ingredienserne med en starv blender
 3. Tilsæt spidskommen, koriander, salt & peber, samt evt. chili/paprika og blend igen
-4. Tilsæt vand efter behov og smag til med ekstra krydderier.
+4. Tilsæt vand efter behov og smag til med ekstra krydderier
 
-#### Tips
+#### Servering
 
 Top evt. humussen med oliven olie, salt og peber, samt paprika eller chiliflager hvis det skal se fancy ud.
 

@@ -24,6 +24,6 @@ In late 2018 I got the offer to the Danish Cisco Gold partner named Wingmen Solu
 
 During my time at Wingmen I've had the pleasure to work with a variety of customers, colleagues and technologoies. In recent time mostly focusing on core enterprise networking, Cisco ACI, Cisco SD-WAN, and some traditional firewall and Remote Access VPN, leaving behind Wireless and server/storage for some of my fantastic and knowledgeable colleagues ;) 
 
-Besides networking, I've dabbled in programming and scripting for some time now. I started out with JavaScript, moving briefly over to C#, before finally sticking with Python. Programming have been very on/off for me, as I pick it up whenver either a work or hobby project calls for programming, but I am hoping to develop my programming focus, hoping to make it the cornerstone of everything I do work related.
+Besides networking, I've dabbled in programming and scripting for some time now. I started out with JavaScript, moving briefly over to C#, before for now sticking with Python. Programming have been very on/off for me, as I pick it up whenver either a work or hobby project calls for programming, but I am planning to improve my programming skill, hoping to make it the cornerstone of everything I do work related.
 
 Thanks for reading! <br> Hope you enjoy my content :) <br> /Frederik

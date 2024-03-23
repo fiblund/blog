@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Frederiks Blog</title>
-    <link>http://localhost:1313/personal/</link>
-    <description>Recent content on Frederiks Blog</description>
+    <title>Loss on Frederiks Blog</title>
+    <link>http://localhost:1313/tags/loss/</link>
+    <description>Recent content in Loss on Frederiks Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 20:14:40 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/loss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Håndtere Sorg Og Tab</title>
       <link>http://localhost:1313/personal/h%C3%A5ndtere-sorg-og-tab/</link>
@@ -15,13 +15,6 @@
       <guid>http://localhost:1313/personal/h%C3%A5ndtere-sorg-og-tab/</guid>
       <description>Håndtere sorg og tab - Vores elskede Pippi Forrige weekend; mere specifikt weekenden d. 16-18 februar 2024; var nok en af de værste og hårdeste weekender i Louise og mit liv.
 Efter en uge væk fra Pippi, kom ved 20-tiden fredag aften op til en Pippi, som vi med det samme kunne mærke ikke var så selv. Lige så snart vi åbnede døren ind til hende, kom hun halvt vaklende/halvt løbende ind i stuen til os, mens hendes sædvanlige miav og glade brummen var erstattet af meget ynklige miav.</description>
-    </item>
-    <item>
-      <title>Hello_world</title>
-      <link>http://localhost:1313/personal/hello-world/</link>
-      <pubDate>Sun, 25 Feb 2024 20:07:35 +0100</pubDate>
-      <guid>http://localhost:1313/personal/hello-world/</guid>
-      <description>New Horizon Hello world! My name is Frederik Fibiger-Lundberg</description>
     </item>
   </channel>
 </rss>

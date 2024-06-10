@@ -43,7 +43,3 @@ Server i en skål med friskkværnet peber.
 
 Syntes man at retten mangler lidt grønt, så passer grønne ærter og spinat super godt til :)
 Jeg tilføjede ca. 300g ærter og 200g spinat til ovenståene, begge dele fra frost, tøet inden det blev tilsat til retten. Jeg tilføjede det til sidst, lige inden osten osv.
-
-![Image alt](onion_pasta_1.jpg)
-
-

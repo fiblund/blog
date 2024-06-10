@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/food/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/food/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/food/fransk-l%C3%B8g-pasta/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
+    <lastmod>2024-06-10T21:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
+    <lastmod>2024-06-10T21:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/food/</loc>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/food/</loc>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/food/fransk-l%C3%B8g-pasta/</loc>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pasta/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vegetarian/</loc>
-    <lastmod>2024-03-03T22:00:51+01:00</lastmod>
+    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal/</loc>
     <lastmod>2024-02-25T20:14:40+01:00</lastmod>

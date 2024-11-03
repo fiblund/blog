@@ -1,7 +1,7 @@
 ---
-title = 'Banan Pandekager'
-date = 2024-11-03T22:13:14+01:00
-draft = false
+title: 'Banan Pandekager'
+date: 2024-11-03T22:13:14+01:00
+draft: false
 
 categories:
 - food

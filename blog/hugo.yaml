@@ -10,6 +10,7 @@ params:
   HomeInfoParams: 
     Title: "Frederiks Blog"
     Content: Welcome to my blog
+  mainSections: ["food", "tech", "personal"]
     
   SocialIcons: 
     - name: Github

@@ -4,18 +4,10 @@
     <title>Personal on Frederiks Blog</title>
     <link>http://localhost:1313/categories/personal/</link>
     <description>Recent content in Personal on Frederiks Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.123.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 20:14:40 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 20:07:35 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Håndtere Sorg Og Tab</title>
-      <link>http://localhost:1313/personal/h%C3%A5ndtere-sorg-og-tab/</link>
-      <pubDate>Sun, 25 Feb 2024 20:14:40 +0100</pubDate>
-      <guid>http://localhost:1313/personal/h%C3%A5ndtere-sorg-og-tab/</guid>
-      <description>Håndtere sorg og tab - Vores elskede Pippi Forrige weekend; mere specifikt weekenden d. 16-18 februar 2024; var nok en af de værste og hårdeste weekender i Louise og mit liv.
-Efter en uge væk fra Pippi, kom ved 20-tiden fredag aften op til en Pippi, som vi med det samme kunne mærke ikke var så selv. Lige så snart vi åbnede døren ind til hende, kom hun halvt vaklende/halvt løbende ind i stuen til os, mens hendes sædvanlige miav og glade brummen var erstattet af meget ynklige miav.</description>
-    </item>
     <item>
       <title>Hello_world</title>
       <link>http://localhost:1313/personal/hello-world/</link>

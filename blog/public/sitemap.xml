@@ -3,42 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/food/</loc>
-    <lastmod>2024-06-10T21:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-10T21:00:51+01:00</lastmod>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/food/</loc>
-    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/food/gr%C3%A6ske-gr%C3%B8ntsagsdeller-med-orzo/</loc>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/greek/</loc>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pasta/</loc>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <lastmod>2024-06-10T16:00:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/food/fransk-l%C3%B8g-pasta/</loc>
     <lastmod>2024-03-09T16:00:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pasta/</loc>
-    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/vegetarian/</loc>
-    <lastmod>2024-03-09T16:00:51+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/personal/</loc>
-    <lastmod>2024-02-25T20:14:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/personal/h%C3%A5ndtere-sorg-og-tab/</loc>
-    <lastmod>2024-02-25T20:14:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/loss/</loc>
-    <lastmod>2024-02-25T20:14:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2024-02-25T20:14:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tech/</loc>
@@ -60,6 +57,9 @@
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/network/</loc>
+    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cni on Frederiks Blog</title>
+    <link>https://blog.flundberg.com/tags/cni/</link>
+    <description>Recent content in Cni on Frederiks Blog</description>
+    <generator>Hugo -- 0.123.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 10:07:35 +0100</lastBuildDate>
+    <atom:link href="https://blog.flundberg.com/tags/cni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cilium - It&#39;s still just BGP...</title>
+      <link>https://blog.flundberg.com/tech/cilium-still-just-bgp/</link>
+      <pubDate>Fri, 30 Jan 2026 10:07:35 +0100</pubDate>
+      <guid>https://blog.flundberg.com/tech/cilium-still-just-bgp/</guid>
+      <description>Cilium - It&amp;rsquo;s still just BGP&amp;hellip; Continuing on my Cilium journey, here is what the Cilium BGP config for my lab looks like at the moment.
+Like (basically?) everything else in kubernetes, the BGP config is also specified in YAML. In my lab all of my BGP config exists in a single YAML file that contains multiple YAML documents, with each YAML document being separated by 3 dashes ---.
+The first YAML document is of the kind CiliumBGPClusterConfig, and it should be mostly self-explanatory as long as you&amp;rsquo;ve worked with BGP on a &amp;rsquo;traditional&amp;rsquo; network device 🙂 I have a single BGP instance, called instance-65010, using the ASN 65010 with a single BGP peer with the name dc-switch with IP 192.</description>
+    </item>
+  </channel>
+</rss>

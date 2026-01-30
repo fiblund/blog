@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Frederiks Blog</description>
     <generator>Hugo -- 0.123.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 22:27:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 10:07:35 +0100</lastBuildDate>
     <atom:link href="https://blog.flundberg.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cilium</title>
+      <link>https://blog.flundberg.com/tags/cilium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/cilium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cisco</title>
+      <link>https://blog.flundberg.com/tags/cisco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/cisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cni</title>
+      <link>https://blog.flundberg.com/tags/cni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/cni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K3s</title>
+      <link>https://blog.flundberg.com/tags/k3s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/k3s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K8s</title>
+      <link>https://blog.flundberg.com/tags/k8s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/k8s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>https://blog.flundberg.com/tags/network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://blog.flundberg.com/tags/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.flundberg.com/tags/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Dinner</title>
       <link>https://blog.flundberg.com/tags/dinner/</link>
@@ -55,27 +104,6 @@
       <link>https://blog.flundberg.com/tags/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.flundberg.com/tags/about-me/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cisco</title>
-      <link>https://blog.flundberg.com/tags/cisco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.flundberg.com/tags/cisco/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Network</title>
-      <link>https://blog.flundberg.com/tags/network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.flundberg.com/tags/network/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>https://blog.flundberg.com/tags/tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.flundberg.com/tags/tech/</guid>
       <description></description>
     </item>
     <item>

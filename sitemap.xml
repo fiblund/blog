@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.flundberg.com/food/</loc>
-    <lastmod>2024-11-03T22:27:14+01:00</lastmod>
+    <loc>https://blog.flundberg.com/tech/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
   </url><url>
     <loc>https://blog.flundberg.com/categories/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/cilium/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tech/cilium-still-just-bgp/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/cisco/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/cni/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/k3s/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/k8s/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/network/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/tags/tech/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/categories/tech/</loc>
+    <lastmod>2026-01-30T10:07:35+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.flundberg.com/food/</loc>
     <lastmod>2024-11-03T22:27:14+01:00</lastmod>
   </url><url>
     <loc>https://blog.flundberg.com/tags/dinner/</loc>
@@ -17,13 +53,7 @@
     <loc>https://blog.flundberg.com/categories/food/</loc>
     <lastmod>2024-11-03T22:27:14+01:00</lastmod>
   </url><url>
-    <loc>https://blog.flundberg.com/</loc>
-    <lastmod>2024-11-03T22:27:14+01:00</lastmod>
-  </url><url>
     <loc>https://blog.flundberg.com/food/stir-fry-sauce/</loc>
-    <lastmod>2024-11-03T22:27:14+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.flundberg.com/tags/</loc>
     <lastmod>2024-11-03T22:27:14+01:00</lastmod>
   </url><url>
     <loc>https://blog.flundberg.com/tags/vegetarian/</loc>
@@ -47,28 +77,13 @@
     <loc>https://blog.flundberg.com/food/fransk-l%C3%B8g-pasta/</loc>
     <lastmod>2024-03-09T16:00:51+01:00</lastmod>
   </url><url>
-    <loc>https://blog.flundberg.com/tech/</loc>
-    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
-  </url><url>
     <loc>https://blog.flundberg.com/tech/about-me/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>https://blog.flundberg.com/tags/about-me/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
-    <loc>https://blog.flundberg.com/tags/cisco/</loc>
-    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
-  </url><url>
     <loc>https://blog.flundberg.com/tech/cisco-certs/</loc>
-    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.flundberg.com/tags/network/</loc>
-    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.flundberg.com/tags/tech/</loc>
-    <lastmod>2024-02-25T20:07:35+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.flundberg.com/categories/tech/</loc>
     <lastmod>2024-02-25T20:07:35+01:00</lastmod>
   </url><url>
     <loc>https://blog.flundberg.com/food/humus/</loc>

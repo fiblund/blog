@@ -1,5 +1,5 @@
 ---
-title: 'Cilium - It's still just BGP...'
+title: "Cilium - It's still just BGP..."
 date: 2026-01-30T10:07:35+01:00
 draft: false
 

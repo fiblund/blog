@@ -4,15 +4,15 @@ date: 2026-01-30T10:07:35+01:00
 draft: false
 
 categories:
-- tech
+  - tech
 tags:
-- tech
-- cisco
-- network
-- cilium
-- k3s
-- k8s
-- cni
+  - tech
+  - cisco
+  - network
+  - cilium
+  - k3s
+  - k8s
+  - cni
 ---
 
 ## Cilium - It's still just BGP...

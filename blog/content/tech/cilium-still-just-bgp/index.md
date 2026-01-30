@@ -16,7 +16,7 @@ tags:
 ---
 
 ## Cilium - It's still just BGP...
- 
+
 Continuing on my Cilium journey, here is what the Cilium BGP config for my lab looks like at the moment.
 
 Like (basically?) everything else in kubernetes, the BGP config is also specified in YAML. In my lab all of my BGP config exists in a single YAML file that contains multiple YAML documents, with each YAML document being separated by 3 dashes ```---```.
